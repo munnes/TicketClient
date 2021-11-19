@@ -1,0 +1,23 @@
+
+export const LOCATIONS_LOADING = 'LOCATIONS_LOADING';
+export const LOCATIONS_FAILD = 'LOCATIONS_FAILD';
+export const ADD_LOCATION = 'ADD_LOCATION';
+
+export const TICKETS_LOADING = 'TICKETS_LOADING';
+export const TICKETS_FAILD = 'TICKETS_FAILD';
+export const ADD_TICKETS = 'ADD_TICKETS';
+
+export const CARD_LOADING = 'CARD_LOADING';
+export const CARD_FAILD = 'CARD_FAILD';
+export const ADD_CARD = 'ADD_CARD';
+
+export const TRIP_LOADING = 'TRIP_LOADING';
+export const TRIP_FAILD = 'TRIP_FAILD';
+export const ADD_TRIP = 'ADD_TRIP';
+
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
+export const LOGOUT_REQUEST = 'LOGOUT_REQUEST';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const LOGOUT_FAILURE = 'LOGOUT_FAILURE';
